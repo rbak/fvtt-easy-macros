@@ -1,4 +1,4 @@
-export default class Simple {
+class Simple {
   static getSelected() {
   	const controlled = canvas.tokens.controlled
   	if (controlled.length < 1) {
