@@ -7,7 +7,7 @@
             "name": "Ryan Bak"
         }
     ],
-    "version": "0.0.1",
+    "version": "0.0.3",
     "compatibility": {
         "minimum": "11",
         "verified": "11"
@@ -19,6 +19,6 @@
         "requires": []
     },
     "url": "https://github.com/rbak/fvtt-easy-macros",
-    "manifest": "https://github.com//rbak/fvtt-easy-macros/raw/main/module.json",
-    "download": "https://github.com//rbak/fvtt-easy-macros/raw/main/module.zip"
+    "manifest": "https://github.com/rbak/fvtt-easy-macros/releases/latest/download/module.json",
+    "download": "https://github.com/rbak/fvtt-easy-macros/releases/latest/download/module.zip"
 }
