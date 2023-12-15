@@ -1,5 +1,5 @@
 {
-    "id": "easy-macros",
+    "id": "fvtt-easy-macros",
     "title": "Easy Macros",
     "description": "Wrapper to simplify writing macros",
     "authors": [
@@ -7,14 +7,18 @@
             "name": "Ryan Bak"
         }
     ],
-    "version": "0.1.0",
+    "version": "0.0.1",
     "compatibility": {
-        "minimum": 11,
-        "verified": 11
+        "minimum": "11",
+        "verified": "11"
     },
-    "esmodules": [
-        "./module/main.js"
+    "scripts": [
+        "./scripts/main.js"
     ],
+    "relationships": {
+        "requires": []
+    },
     "url": "https://github.com/rbak/fvtt-easy-macros",
-    "bugs": "https://github.com/rbak/fvtt-easy-macros/issues",
+    "manifest": "https://github.com//rbak/fvtt-easy-macros/raw/main/module.json",
+    "download": "https://github.com//rbak/fvtt-easy-macros/raw/main/macro-grid.zip"
 }
