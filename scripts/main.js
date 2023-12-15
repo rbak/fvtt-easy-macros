@@ -12,3 +12,9 @@ export default class Simple {
     return controlled[0];
   }
 }
+
+Hooks.on('canvasReady', (canvas) => {
+  if (!window.hasOwnProperty('Simple')) {
+    window.Simple = Simple;
+  }
+});
