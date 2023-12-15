@@ -1,0 +1,20 @@
+{
+    "id": "easy-macros",
+    "title": "Easy Macros",
+    "description": "Wrapper to simplify writing macros",
+    "authors": [
+        {
+            "name": "Ryan Bak"
+        }
+    ],
+    "version": "0.1.0",
+    "compatibility": {
+        "minimum": 11,
+        "verified": 11
+    },
+    "esmodules": [
+        "./module/main.js"
+    ],
+    "url": "https://github.com/rbak/fvtt-easy-macros",
+    "bugs": "https://github.com/rbak/fvtt-easy-macros/issues",
+}
