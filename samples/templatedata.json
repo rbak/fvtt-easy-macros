@@ -1,0 +1,56 @@
+{
+   "distance":10,
+   "fillColor":"#ac27cd",
+   "t":"ray",
+   "angle":5,
+   "flags":{
+      "pf2e":{
+         "areaType":"cone",
+         "origin":{
+            "actor":"Compendium.pf2e.pathfinder-bestiary.Actor.JhQGNMlKARMx1n2D",
+            "traits":[
+               "arcane",
+               "fire"
+            ]
+         }
+      },
+      "levels":{
+         "elevation":-1,
+         "special":0
+      },
+      "tokenmagic":{
+         "options":null,
+         "templateData":{
+            "opacity":0.8,
+            "tint":null,
+            "preset":"Wild Magic"
+         },
+         "filters":[
+            {
+               "tmFilters":{
+                  
+               }
+            },
+            {
+               "tmFilters":{
+                  
+               }
+            }
+         ]
+      },
+      "tagger":{
+         "tags":[
+            "test"
+         ]
+      }
+   },
+   "x":4550,
+   "y":8470,
+   "_id":"DDwuAuLdEn8stuLw",
+   "user":"2OpzwQvefpeXTwQS",
+   "direction":75,
+   "width":1,
+   "borderColor":"#000000",
+   "texture":"modules/tokenmagic/fx/assets/templates/black-tone-strong-opacity.png",
+   "hidden":false
+}
